@@ -41,7 +41,7 @@ section {
     font-weight: 700;
     font-size: 16px;
     color: #FFFFFF;
-    background-color: #e647ff;
+    background-color: #6f47ff;
     border: none;
     border-radius: 10px;
     padding: 12px 36px;
@@ -291,7 +291,7 @@ section {
 .contact-heading h2 {
     font-size: 97px;
     line-height: 1.2;
-    color: #000000;
+    color: #14aae5;
 }
 
 .contact-form {
@@ -362,13 +362,13 @@ section {
     font-weight: 900;
     font-size: 100px;
     line-height: 1.2;
-    color: #4E47FF;
+    color: #ea119e;
 }
 
 .footer-content p {
     font-size: 16px;
     line-height: 1.5;
-    color: #8987A1;
+    color: #2516c8;
 }
 
 .footer-nav {
@@ -381,5 +381,5 @@ section {
     text-decoration: none;
     font-family: 'Inter', sans-serif;
     font-size: 16px;
-    color: #8987A1;
+    color: #1dd657;
 }
